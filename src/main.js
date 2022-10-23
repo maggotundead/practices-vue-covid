@@ -15,6 +15,6 @@ const vuetify = createVuetify() // Replaces new Vuetify()
 app.use(vuetify)
 app.use(router)
 
-console.log(router.currentRoute)
+// console.log(router.currentRoute)
 
 app.mount('#app')

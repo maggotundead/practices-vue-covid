@@ -6,12 +6,12 @@
 </template>
 
 <script>
-    const Countries = {
+    const CountriesPage = {
         data() {
             return {
                 countriesTitle: 'Countries stats',
             }
         }
     }
-    export default Countries
+    export default CountriesPage
 </script>

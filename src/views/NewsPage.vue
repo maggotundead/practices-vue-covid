@@ -6,12 +6,12 @@
 </template>
 
 <script>
-    const News = {
+    const NewsPage = {
         data() {
             return {
                 newsTitle: 'news title',
             }
         },
     }
-    export default News
+    export default NewsPage
 </script>
